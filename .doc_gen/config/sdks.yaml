@@ -1,0 +1,18 @@
+CloudFrontFunctions:
+  property: javascript
+  sdk:
+    1:
+      long: "&CFlong; Functions"
+      short: "&CF; Functions"
+      expanded:
+        long: Amazon CloudFront Functions
+        short: CloudFront Functions
+      guide: AmazonCloudFront/latest/DeveloperGuide/cloudfront-functions.html
+      title_override:
+        title: "&CF; function examples"
+        title_abbrev: "Function examples"
+      api_ref:
+        uid: "cloudfront"
+        name: "&guide-cf-api;"
+        link_template: "https://docs.aws.amazon.com/cloudfront/latest/APIReference/Welcome.html"
+  guide: "&guide-cf-dev;"
