@@ -1,4 +1,4 @@
-CloudFrontFunctions:
+CloudFront Functions:
   property: javascript
   sdk:
     1:
