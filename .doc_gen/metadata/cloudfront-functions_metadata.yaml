@@ -177,7 +177,7 @@ cloudfront_functions_url_rewrite_single_page_apps:
   languages:
     JavaScript:
       versions:
-        - sdk_version: 10000
+        - sdk_version: 100
           github: https://github.com/aws-samples/amazon-cloudfront-functions/tree/main/url-rewrite-single-page-apps
           excerpts:
             - description:
