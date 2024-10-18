@@ -5,9 +5,9 @@ cloudfront_functions_add_cache_control_header:
 
   category: CloudFront Functions examples
   languages:
-    CloudFrontFunctions:
+    JavaScript:
       versions:
-        - sdk_version: 1
+        - sdk_version: 100
           github: https://github.com/aws-samples/amazon-cloudfront-functions/tree/main/add-cache-control-header
           excerpts:
             - description:
@@ -22,9 +22,9 @@ cloudfront_functions_add_cors_header:
 
   category: CloudFront Functions examples
   languages:
-    CloudFrontFunctions:
+    JavaScript:
       versions:
-        - sdk_version: 1
+        - sdk_version: 100
           github: https://github.com/aws-samples/amazon-cloudfront-functions/tree/main/add-cors-header
           excerpts:
             - description:
@@ -39,9 +39,9 @@ cloudfront_functions_add_origin_header:
 
   category: CloudFront Functions examples
   languages:
-    CloudFrontFunctions:
+    JavaScript:
       versions:
-        - sdk_version: 1
+        - sdk_version: 100
           github: https://github.com/aws-samples/amazon-cloudfront-functions/tree/main/add-origin-header
           excerpts:
             - description:
@@ -56,9 +56,9 @@ cloudfront_functions_add_security_headers:
 
   category: CloudFront Functions examples
   languages:
-    CloudFrontFunctions:
+    JavaScript:
       versions:
-        - sdk_version: 1
+        - sdk_version: 100
           github: https://github.com/aws-samples/amazon-cloudfront-functions/tree/main/add-security-headers
           excerpts:
             - description:
@@ -73,9 +73,9 @@ cloudfront_functions_add_true_client_ip_header:
 
   category: CloudFront Functions examples
   languages:
-    CloudFrontFunctions:
+    JavaScript:
       versions:
-        - sdk_version: 1
+        - sdk_version: 100
           github: https://github.com/aws-samples/amazon-cloudfront-functions/tree/main/add-true-client-ip-header
           excerpts:
             - description:
@@ -90,9 +90,9 @@ cloudfront_functions_kvs_conditional_read:
 
   category: CloudFront Functions examples
   languages:
-    CloudFrontFunctions:
+    JavaScript:
       versions:
-        - sdk_version: 1
+        - sdk_version: 100
           github: https://github.com/aws-samples/amazon-cloudfront-functions/tree/main/kvs-conditional-read
           excerpts:
             - description:
@@ -107,9 +107,9 @@ cloudfront_functions_kvs_jwt_verify:
 
   category: CloudFront Functions examples
   languages:
-    CloudFrontFunctions:
+    JavaScript:
       versions:
-        - sdk_version: 1
+        - sdk_version: 100
           github: https://github.com/aws-samples/amazon-cloudfront-functions/tree/main/kvs-jwt-verify
           excerpts:
             - description:
@@ -124,9 +124,9 @@ cloudfront_functions_kvs_key_value_pairs:
 
   category: CloudFront Functions examples
   languages:
-    CloudFrontFunctions:
+    JavaScript:
       versions:
-        - sdk_version: 1
+        - sdk_version: 100
           github: https://github.com/aws-samples/amazon-cloudfront-functions/tree/main/kvs-key-value-pairs
           excerpts:
             - description:
@@ -141,9 +141,9 @@ cloudfront_functions_normalize_query_string_parameters:
 
   category: CloudFront Functions examples
   languages:
-    CloudFrontFunctions:
+    JavaScript:
       versions:
-        - sdk_version: 1
+        - sdk_version: 100
           github: https://github.com/aws-samples/amazon-cloudfront-functions/tree/main/normalize-query-string-parameters
           excerpts:
             - description:
@@ -158,9 +158,9 @@ cloudfront_functions_redirect_based_on_country:
 
   category: CloudFront Functions examples
   languages:
-    CloudFrontFunctions:
+    JavaScript:
       versions:
-        - sdk_version: 1
+        - sdk_version: 100
           github: https://github.com/aws-samples/amazon-cloudfront-functions/tree/main/redirect-based-on-country
           excerpts:
             - description:
@@ -175,9 +175,9 @@ cloudfront_functions_url_rewrite_single_page_apps:
 
   category: CloudFront Functions examples
   languages:
-    CloudFrontFunctions:
+    JavaScript:
       versions:
-        - sdk_version: 1
+        - sdk_version: 10000
           github: https://github.com/aws-samples/amazon-cloudfront-functions/tree/main/url-rewrite-single-page-apps
           excerpts:
             - description:
